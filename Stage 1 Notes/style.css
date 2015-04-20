@@ -1,0 +1,42 @@
+/* this is a CSS comment.*/
+/*
+* {
+   outline: 1px solid red !important;
+}
+*/
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+} 
+
+body{
+	font-family: garamond;
+}
+
+h2{
+	text-align: center;
+	color: gray;
+}
+
+.title{
+	background-color: #294860;
+	color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.lecture {
+    background-color: white;
+    border-radius: 5px;
+    border: 3px solid #294860;
+}
+.topics{
+    color: gray;
+    font-size: 25px;
+    margin: 10px;
+}
